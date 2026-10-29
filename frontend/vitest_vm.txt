@@ -1,0 +1,15 @@
+
+> ai-knowledge-assistant@1.0.0 test
+> vitest --run
+
+
+[7m[1m[36m RUN [39m[22m[27m [36mv1.6.1[39m [90mc:/Users/Saad/OneDrive/Desktop/Projects/AI PRo/frontend[39m
+
+ [33m❯[39m src/test/utils.test.ts [2m ([22m[2m0 test[22m[2m)[22m
+ [33m❯[39m src/test/components.test.tsx [2m ([22m[2m0 test[22m[2m)[22m
+
+[2m Test Files [22m [1m[31m2 failed[39m[22m[90m (2)[39m
+[2m      Tests [22m [2mno tests[22m
+[2m   Start at [22m 00:09:01
+[2m   Duration [22m 2.80s[2m (transform 160ms, setup 497ms, collect 747ms, tests 0ms, environment 2.46s, prepare 3.31s)[22m
+
